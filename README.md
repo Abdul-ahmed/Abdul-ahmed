@@ -18,7 +18,7 @@ Senior Backend Engineer building fintech, proptech, and agentic-AI systems for A
 | **Banffy** | Agency banking platform | [Play Store](https://play.google.com/store/apps/details?id=com.banffpay) · [App Store](https://apps.apple.com/ng/app/banffy/id6587579073) · [Site](https://www.banffpay.com/) |
 | **ServicePadi** | Real-time local-services marketplace | [Play Store](https://play.google.com/store/apps/details?id=com.sosta.sostaapp) · [Site](https://servicepadi.com/) |
 | **Acire23Network** | Real estate & home-services platform | [Site](https://acire23network.com/about-us/) |
-| **VOCE** | Voice-first social platform | [Play Store](https://play.google.com/store/apps/details?id=com.factorial.voceapp) · [App Store](https://apps.apple.com/tn/app/voce-app/id6753660272) |
+| **Voce** | Voice-first social platform | [Play Store](https://play.google.com/store/apps/details?id=com.factorial.voceapp) · [App Store](https://apps.apple.com/tn/app/voce-app/id6753660272) |
 
 Most of my work sits inside proprietary/client codebases — these links are the receipts.
 
