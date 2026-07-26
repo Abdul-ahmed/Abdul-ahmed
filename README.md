@@ -26,7 +26,7 @@ Most of my work sits inside proprietary/client codebases — these links are the
 
 ### 🧰 Tech I work in
 
-`PHP (Laravel, CodeIgniter)` · `Python (Django)` · `C# (ASP.NET Core)` · `Java (Spring Boot)` · `Node.js / Next.js` · `PostgreSQL` · `MySQL` · `REST APIs` · `Rule-Engine & Fraud Detection Architecture` · `AWS`
+`PHP (Laravel, CodeIgniter)` · `Python (Django)` · `C# (ASP.NET Core)` · `Java (Spring Boot)` · `Node.js / Nest.js / Adonis.js / Next.js` · `PostgreSQL` · `MySQL` · `REST APIs` · `Rule-Engine & Fraud Detection Architecture` · `AWS`
 
 ---
 
