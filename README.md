@@ -1,12 +1,12 @@
 # Hi, I'm Abdulahmed 👋
 
-Senior Backend Engineer building fintech, proptech, and agentic-AI systems for African markets — from agency banking rails to fraud/AML rule engines.
+Senior Backend Engineer (7+ years) building fintech, identity-verification and AI-powered systems for African markets, from agency banking rails to fraud/AML rule engines and LLM-driven assistants.
 
-- 🏦 Currently building agency banking infrastructure and an internal fraud-detection & AML engine at **CyberByte Software Solutions**
+- 🏦 Building agency banking infrastructure and an ML-scored fraud-detection & AML engine at **CyberByte Software Solutions**
 - 🛠️ Leading backend for **ServicePadi**, a real-time local-services marketplace (Sosta Global)
-- 🤖 Exploring agentic AI for compliance, fraud, and regulatory use cases
-- 🌍 Based in Lagos, Nigeria — open to remote collaboration and hackathons
-- 📫 Reach me: contactlovietech@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdulahmed-abdulhakeem-105b24100/)
+- 🤖 Bringing LLMs into real products: multilingual conversational banking, customer-recovery agents, KYC fraud screening
+- 🌍 Based in Lagos, Nigeria (UTC+1)
+- 📫 Reach me: abdulhakeemhamad@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdulahmed-abdulhakeem-105b24100/)
 
 ---
 
@@ -20,16 +20,22 @@ Senior Backend Engineer building fintech, proptech, and agentic-AI systems for A
 | **Acire23Network** | Real estate & home-services platform | [Site](https://acire23network.com/about-us/) |
 | **Voce** | Voice-first social platform | [Play Store](https://play.google.com/store/apps/details?id=com.factorial.voceapp) · [App Store](https://apps.apple.com/tn/app/voce-app/id6753660272) |
 
-Most of my work sits inside proprietary/client codebases — these links are the receipts.
+Most of my work sits inside proprietary/client codebases. These links are the receipts.
+
+---
+
+### 🤖 AI projects
+
+| Project | What it does |
+|---|---|
+| **TalkAm** | LLM-driven banking assistant over WhatsApp and phone calls in Pidgin, Yoruba, Hausa and Igbo (InnovateX 2026, advanced past first stage) |
+| **ZiVA Recover** | Conversational agent that recovers stalled bank sign-ups and dormant customers through a bank's existing channels (Zecathon 6.0) |
+| **TrustScreen** | KYC document-fraud pre-filter API with weighted risk scores, integrated with Dojah, Smile ID and QoreID · [business](https://github.com/Abdul-ahmed/trustscreen-business) · [forensics](https://github.com/Abdul-ahmed/trustscreen-foreignsics) |
 
 ---
 
 ### 🧰 Tech I work in
 
-`PHP (Laravel, CodeIgniter)` · `Python (Django)` · `C# (ASP.NET Core)` · `Java (Spring Boot)` · `Node.js (Nest.js, Adonis.js, Next.js)` · `PostgreSQL` · `MySQL` · `REST APIs` · `Rule-Engine & Fraud Detection Architecture` · `AWS`
+`PHP (Laravel)` · `Python (Django, FastAPI)` · `LLM integration` · `XGBoost model serving` · `PostgreSQL` · `MySQL` · `Redis` · `AWS` · `Kubernetes` · `WebSockets (Reverb)` · `Fraud & AML rule engines` · `KYC/KYB`
 
----
-
-### 🏆 Currently
-
-Building toward AI-agentic hackathons — using production fraud/AML and rule-engine experience to prototype explainable agentic systems for regulators and financial institutions.
+Also worked with: `C# (ASP.NET Core)` · `Java (Spring Boot)` · `Node.js / TypeScript (Next.js, Nest.js)`
